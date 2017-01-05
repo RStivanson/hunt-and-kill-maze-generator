@@ -8,6 +8,7 @@ There is a "Play Mode" to allow the user to attempt to navigate through the maze
 
 # Keybindings
   w ------ Try to move the player up
+  
   a ------ Try to move the player left
   s ------ Try to move the player down
   d	------ Try to move the player right
