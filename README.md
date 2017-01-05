@@ -10,18 +10,31 @@ There is a "Play Mode" to allow the user to attempt to navigate through the maze
   w ------ Try to move the player up
   
   a ------ Try to move the player left
+  
   s ------ Try to move the player down
+  
   d	------ Try to move the player right
+  
   r ------ Enter play mode
+  
   R	------ Draw everything in Red
+  
   g	------ Regenerate the maze (Interactively)
+  
   i	------ Instantly regenerate the maze (non-interactive)
+  
   G	------ Draw everything in Green
+  
   b	------ Draw everything in Black
+  
   B	------ Draw everything in blue
+  
   q or Q - Quit the program	
+  
   V	------ Toggle maze generation verbosity
+  
   + ------ Increase the delay between maze generation steps
+  
   - ------ Decrease the delay between maze generations steps
 
 # How To Use
