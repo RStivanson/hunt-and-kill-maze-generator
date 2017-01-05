@@ -7,35 +7,21 @@ This program uses OpenGL and GLUT to draw the maze on the screen for the user to
 There is a "Play Mode" to allow the user to attempt to navigate through the maze. The player is distinguish as the cell that is filled in. The start and end of the maze are marked by different colored walls. Start is marked by purple walls and the end is marked by pink walls. As you move the player along the maze, the program will keep track of how many total moves you have gone and prints it to the terminal.
 
 # Keybindings
-  w ------ Try to move the player up
-  
-  a ------ Try to move the player left
-  
-  s ------ Try to move the player down
-  
-  d	------ Try to move the player right
-  
-  r ------ Enter play mode
-  
-  R	------ Draw everything in Red
-  
-  g	------ Regenerate the maze (Interactively)
-  
-  i	------ Instantly regenerate the maze (non-interactive)
-  
-  G	------ Draw everything in Green
-  
-  b	------ Draw everything in Black
-  
-  B	------ Draw everything in blue
-  
-  q or Q - Quit the program	
-  
-  V	------ Toggle maze generation verbosity
-  
-  + ------ Increase the delay between maze generation steps
-  
-  - ------ Decrease the delay between maze generations steps
+  1. w  ------ Try to move the player up
+  2. a  ------ Try to move the player left
+  3. s  ------ Try to move the player down
+  4. d	------ Try to move the player right
+  5. r  ------ Enter play mode
+  6. R	------ Draw everything in Red
+  7. g	------ Regenerate the maze (Interactively)
+  8. i	------ Instantly regenerate the maze (non-interactive)
+  9. G	------ Draw everything in Green
+  10. b	------ Draw everything in Black
+  11. B	------ Draw everything in blue
+  12. q or Q - Quit the program	
+  13. V	------ Toggle maze generation verbosity
+  14. + ------ Increase the delay between maze generation steps
+  15. - ------ Decrease the delay between maze generations steps
 
 # How To Use
 !IMPORTANT!
